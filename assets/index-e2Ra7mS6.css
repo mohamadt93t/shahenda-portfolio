@@ -33,3 +33,4 @@
 .cv{touch-action:pan-y;cursor:grab}.cv.drag{cursor:grabbing}.cv.drag .cv-card{transition:none}
 
 .cv-card.on .cv-cap{opacity:1}.cv:focus-visible{outline:2px solid hsl(var(--primary));outline-offset:2px;border-radius:12px}
+.hero-top{padding-top:6.5rem}@media(min-width:768px){.hero-top{padding-top:7rem}}
